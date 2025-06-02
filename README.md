@@ -1,4 +1,4 @@
-# Laravel 10 優雅高效的篩選和排序
+# Laravel 11 優雅高效的篩選和排序
 
 引入 abbasudo 的 laravel-purity 套件來擴增優雅高效的篩選和排序，主要在簡化 Eloquent 查詢的複雜資料篩選和排序邏輯。
 
@@ -26,5 +26,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/tryzWwe.png)
+![](https://i.imgur.com/sq3uJwZ.png)
 > 為前端使用者新增基於 URL 查詢字串參數套用篩選器的功能
